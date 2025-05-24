@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# iams
+The Integrated Advertisement Management System (IAMS) is a specialized Management Information System (MIS) developed for the Information and Public Relations (IPR) Department, Government of Khyber Pakhtunkhwa.
+
+This application, built using the Laravel framework, is designed to enhance performance, usability, and security. Its primary objective is to digitize and streamline the end-to-end process of publishing government advertisements across various newspapers.
+
+IAMS ensures efficient workflow management, role-based approvals, and maintains a secure electronic record of all advertisements issued. By automating the advertisement process, the system promotes transparency, accountability, and timely dissemination of official information to the public.
+>>>>>>> 98b472249e056721f9c571b9c716b52611b28417
